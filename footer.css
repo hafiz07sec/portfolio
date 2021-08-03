@@ -1,0 +1,61 @@
+footer p {
+    
+    font-size: 12px;
+    text-align: center;
+}
+#stay-connected img{
+    width: 40px;
+    height: 40px;
+
+    
+}
+#stay-connected{
+    text-align: center;
+    
+}
+#stay-connected h3{
+    color: #696871;
+}
+#stay-connected h1{
+    color:  #363958;
+    
+}
+.footer-area{
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.footer-area img{
+    width: 70%;
+    position: center;
+    padding-bottom: 80px;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+.work-inquiry {
+   
+    position: absolute;
+    bottom: 120px;
+    left: 300px;
+    font-size: xx-large;
+  }
+  .btn-on-img{
+    position: absolute;
+    bottom: 200px;
+    right: 300px;
+   
+  }
+  .link-button{
+    text-decoration:none;
+    background-color: tomato;
+    padding:10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
+.icon-footer{
+    padding-left: 20px;
+}
